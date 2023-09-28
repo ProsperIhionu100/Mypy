@@ -1,0 +1,25 @@
+{
+    "states":[
+        {
+            "name":"Alabama",
+            "abbreviation":"AL",
+            "area_codes": ["205","251","334","938"]
+        },
+        {
+            "name":"Alaska",
+            "abbreviation":"AK",
+            "area_codes": ["907"]
+        },
+        {
+            "name":"Arizona",
+            "abbreviation":"AZ",
+            "area_codes": ["450","520","602","632","928"]
+        },
+        {
+            "name":"Arkanas",
+            "abbreviation":"AR",
+            "area_codes": ["479","501","870"]
+        }
+
+    ]
+}
